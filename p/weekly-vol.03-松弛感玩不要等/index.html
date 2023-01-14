@@ -376,23 +376,37 @@
      
     
         
-    <script src='//unpkg.com/@waline/client@v2/dist/waline.js'></script>
-<link href='//unpkg.com/@waline/client@v2/dist/waline.css' rel='stylesheet'/>
-<div id="waline" class="waline-container"></div>
-<style>
-    .waline-container {
-        background-color: var(--card-background);
-        border-radius: var(--card-border-radius);
-        box-shadow: var(--shadow-l1);
-        padding: var(--card-padding);
-        --waline-font-size: var(--article-font-size);
+    <script 
+                src="https://latest.cactus.chat/cactus.js"crossorigin="anonymous"
+                
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://latest.cactus.chat/style.css"crossorigin="anonymous"
+            ><style>
+    .cactus-editor-textarea {
+        color: var(--body-text-color);
     }
-    .waline-container .wl-count {
+
+    .cactus-comment-header {
         color: var(--card-text-color-main);
     }
-</style><script>
-    
-    Waline.init({"dark":"html[data-scheme=\"dark\"]","el":"#waline","emoji":["https://unpkg.com/@waline/emojis@1.0.1/weibo"],"lang":{"default":"zh-CN","type":"string"},"locale":{"admin":"Admin","placeholder":null},"requiredMeta":["name","email","url"],"serverURL":{"required":true,"type":"string"}});
+
+    .cactus-message-text > p {
+        color: var(--body-text-color);
+    }
+</style>
+
+<div id="comment-section"></div>
+
+<script>
+    initComments({
+        node: document.getElementById("comment-section"),
+        defaultHomeserverUrl: "https:\/\/matrix.cactus.chat:8448",
+        serverName: "cactus.chat",
+        siteName: "",
+        commentSectionId: "bd65329b850f9d3ab9ca2f9c04b20fe4"
+    })
 </script>
 
     
