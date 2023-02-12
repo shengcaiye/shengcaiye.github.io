@@ -6,7 +6,72 @@
         <description>Recent content in Posts on 一片生菜叶</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://shengcaiye.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 12 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://shengcaiye.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>vol.05 满世界的ChatGPT新闻</title>
+        <link>https://shengcaiye.github.io/p/vol.05-%E6%BB%A1%E4%B8%96%E7%95%8C%E7%9A%84chatgpt%E6%96%B0%E9%97%BB/</link>
+        <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://shengcaiye.github.io/p/vol.05-%E6%BB%A1%E4%B8%96%E7%95%8C%E7%9A%84chatgpt%E6%96%B0%E9%97%BB/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;font color= #871F78&gt;本篇是对 Feb.04 - Feb.12 生活的记录与思考。&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;自我虐待和自我照顾&#34;&gt;自我虐待和自我照顾&lt;/h2&gt;
+&lt;p&gt;转眼 2 月过半了，没有新鲜事。最近没有找到良好的生活节奏，还在和各种情绪做斗争。过年期间诱发的懒惰，维持到了现在。焦虑、悲伤、失望、恐惧、损失、担心… … 这些感受难以抗拒，所以更容易变懒。早上窝在被窝爬不起来，大肆情绪化进食，每天的daily routine （运动、冥想、阅读、学习）也没有进行。于是身体发出了信号：浑身乏力，全身水肿，思维迟钝，注意力下降。&lt;/p&gt;
+&lt;p&gt;昨晚回到家觉得家好乱，客厅里的植物缺水都耷拉着，卧室积攒了一大堆换洗衣服&amp;hellip;&amp;hellip;环境也在告诉我这糟糕的状态。更不幸的是，我并没有解决问题。&lt;/p&gt;
+&lt;p&gt;我需要重新找回好的生活状态，需要和身体重新建立起连接，需要对她多些关怀。&lt;/p&gt;
+&lt;h2 id=&#34;满世界的chatgpt新闻&#34;&gt;满世界的ChatGPT新闻&lt;/h2&gt;
+&lt;p&gt;这段时间的信息流全是ChatGPT。关于AI能否取代人类的工作的忧虑，自己其实还挺乐观主义的。还是相信，既然AI 能够被训练被学习，那么人类也可以的。也很同意 &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/naval/status/1602552509545041920&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Naval&lt;/a&gt;说：AI will replace the people who think it will.&lt;/p&gt;
+&lt;h3 id=&#34;chatgpt的技术性并无突破&#34;&gt;ChatGPT的技术性并无突破&lt;/h3&gt;
+&lt;p&gt;Meta 的首席 AI 科学家 &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=ULbpPHjiSBg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Yann LeCun&lt;/a&gt;说，基于大型语言模型（LLM）的ChatGPT 是「很不错的产品」，但在技术上并无特别的突破，基本上还是站在前人的成果上。LLM 只捕捉到人类智慧的一小部分，因为 LLM 的训练数据是文字，通过文字学习，并用概率来预测字与字之间的关系。而人类的大部分智慧都不存在于文字，也无法用文字表示。&lt;/p&gt;
+&lt;h3 id=&#34;ai-能否拥有和人类一样的智慧&#34;&gt;AI 能否拥有和人类一样的智慧&lt;/h3&gt;
+&lt;p&gt;AI 要达到和人类一样的智慧，即「人工通用智慧」（artificial general intelligence，AGI），还有多远？&lt;/p&gt;
+&lt;p&gt;LeCun 认为 AGI 模型有三个条件：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;有模拟（simulate）互动对象的能力&lt;/li&gt;
+&lt;li&gt;有预测（predict）的能力&lt;/li&gt;
+&lt;li&gt;有规划（plan）的能力&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;AGI 若要能&lt;strong&gt;模拟互动对象&lt;/strong&gt;，训练资料源必须只是文字，就像婴儿在识字之前是通过大量的非文字观察（observation）来自主学习。
+智慧（intelligence）有两个基本要素，分別是&lt;strong&gt;预测&lt;/strong&gt;与&lt;strong&gt;规划&lt;/strong&gt;。LLM 已经做到&lt;strong&gt;预测&lt;/strong&gt;，然而 目前还做不到 &lt;strong&gt;规划&lt;/strong&gt;，也就是对每一个行动可能产生的结果进行预测，并利用这些预测来&lt;strong&gt;规划&lt;/strong&gt;最远成目标的行为。&lt;/p&gt;
+&lt;p&gt;ChatGPT 既无法&lt;strong&gt;模拟互动对象&lt;/strong&gt;，也无法&lt;strong&gt;规划&lt;/strong&gt;，更不负责&lt;strong&gt;真伪&lt;/strong&gt;（因为知识基于概率的预测）。&lt;/p&gt;
+&lt;h3 id=&#34;该如何与-ai-相处&#34;&gt;该如何与 AI 相处&lt;/h3&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://mailchi.mp/manny-li.com/063-16827800&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;ChatGPT 和 伸手党 &lt;/a&gt;，很多人在日常生活中或许都有过对「伸手党」不耐烦的经验，且当下多半会在内心（或讲出来说）：「有时间问不会先去Google 吗？」然而，很多时候伸手党的难处不一定是因为偷懒，而是因为不知道下什么关键字、不知道哪些资讯有用，或是不知道如何将资讯处理成可解决问题的知识。伸手党之所以存在，反映的不是懒，而是&lt;strong&gt;人类比Google 好用&lt;/strong&gt;。也许未来我们会怀念伸手党，因为AI 将大幅减少人们需要伸手的机会。以ChatGPT 为例，它已非常接近人们心中理想的伸手对象：可以用自然语言查询、能合成出资讯，还能给出结论，甚至是让自己拥有不具备的知识（例如写code）。&lt;/p&gt;
+&lt;p&gt;Midjourney 创始人 David Holz 谈到他对AI的理解：“&lt;strong&gt;人工智能是水，而不是老虎&lt;/strong&gt;。人们完全误解了AI是什么。他们将AI视为猛虎，是危险的，可能会吃掉我，它是一个对手。水里也有危险，你可能会溺水，但湍急的河水与老虎的危险是截然不同的，水有危险，没错，但你可以在里面游泳、可以坐船，可以用水坝拦住发电。水是危险的，但它也是文明的驱动力，我们作为指导如何与水一起生活和工作的人类，会活的更好，这是一个机会。水没有意志、没有怨恨，是的，你可能溺水，但这并不意味着我们应该禁止水的存在，当你发现一个新的水源，这真是一件好事。”&lt;/p&gt;
+&lt;p&gt;LeCun 对 AI 的三个看法：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;回顾人类历史，几乎每一种科技突破诞生时都会招来抗争，因为挡人财路。例如：照相机冲击了手绘肖像、唱片冲击了现场演出、网路冲击了出版业。然而，没有一次抗争有办法胜出，人类向来阻止不了科技的进步。&lt;/li&gt;
+&lt;li&gt;许多人不满AI「剽窃」创作者的创意，例如用知名画家的风格来作画。然而，以现行著作权法来说，法律从来不禁止人们受他人画风的「启发」，甚至不禁止模仿画风。特别制定新的法律来禁止 AI 是合理的吗？&lt;/li&gt;
+&lt;li&gt;许多人倡议一种论述：「为什么我们的创作被硅谷的大公司拿去发展 AI 模型？它们都这么有钱了还要剥削我们？」这种论述很快就失效了，因为再过一、两年，每个年轻人都能在自家的车库中架设伺服器、布建 AI 模型跟爬虫，然后尽情的执行上述的剥削情事。把矛头指向「大公司」是个错误的论述方向。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;但是，有些事情，或许 AI 有能力可以帮自己决定，但无论因为什么理由，可能会觉得还是自己来比较好。&lt;/p&gt;
+&lt;h3 id=&#34;一些其他的声音&#34;&gt;一些其他的声音&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.allinpodcast.co/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;声东击西 - #205.经济学家眼里的算法之蠢和治理难题&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.allinpodcast.co/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;牛油果烤面包 - #84.以人为中心的人工智能&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://mp.weixin.qq.com/s/bh5uw06IzTCO9jQBa-rlfQ&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;A16Z：生成式AI平台，谁主沉浮？| AIGC 101&lt;/a&gt;&lt;/strong&gt; ：强大的网络效应是否会在生成式AI技术栈中的任何一层占据上风？现在下定论，一切还为时过早。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;杨潇&lt;/strong&gt;：如果还是那同一波曾为crypto, VR, clubhouse兴奋过的人，今天又出来给ChatGPT站台，这件事情就值得警惕啦。不是不相信AI，也不是不相信他们的眼光，是根据过去十年的经验，这些人运气一般都差到蒙不对的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;看了什么&#34;&gt;看了什么&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;被观看的一代&lt;/strong&gt;： 当plog和vlog数量膨胀填满我们的网络生活时，体验的部分似乎就没有了。我们不断从别人的视角去理解自己和自己的生活，叙事和体验在像素里被扁平化了，渐渐失去了去真实的世界体验，失去了在真实世界中理解自己的机会。如果说未经审视的生活时不值得过的，那么被过度观看的生活呢？&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;二怪的微博&lt;/strong&gt;：Lex Fridman 采访知名Youtube网红 Mr. Beast。Lex 问，你的团队现在已经发展得很大了，你有没有什么面试年轻人的技巧？Mr. Beast说，我会问他十年计划，答案是什么都行，但如果这个人说我现在做这份自媒体工作是为了以后做电影、做电视，那我就会请他快走。Youtube 本身就是未来、新世界、终点。这就是你的职业，它不是去传统影视工业的一个跳板。你都来这了，还往回走干嘛？You just don’t get it.每句都深深点头，又想起十年前我们这些天天泡在网上的小孩其实都是边缘人，是underdog，是书呆子，是无法融入传统大厂大公司的怪咖，只是在不抱希望地为自己横冲直撞的表达找一个也许能被看见的出口，又觉得宇宙运行的方式非常奇妙。不急。Every dog has its day.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://thepodluckclub.com/club-only-ywdp-068/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;与工作解绑，You Are More Than Your Job&lt;/a&gt;：我们对于两件事/人倾注了太多的意义，一是伴侣；二是工作。我们在工作时，工作不仅要支付工资，还要提供人生意义、赋予人个人身份认同、让人开心、让人感到骄傲、结交朋友等等等等。我们在被工作绑架以后，又希望工作给我们更多，造成一个恶性循环。&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://moretothat.com/a-letter-to-my-newborn-daughter/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;给我刚出生的女儿的一封信&lt;/a&gt;：消除贪婪影响的唯一方法就是培养自我意识。智慧在自我纠正中，痛苦在强制纠正中。我和妻子想灌输给女儿的指导价值是善良。我们不在乎她会继续赚多少钱，她的野心会有多大，或者她会在这个世界上留下多少“凹痕”。如果她是一个善良和富有同情心的人，那么这将是一个巨大的育儿成功。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;学了什么&#34;&gt;学了什么&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;竹子的&lt;a class=&#34;link&#34; href=&#34;https://zhuzi.dev/2021/06/05/douban-backup-sync-notion/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;豆瓣标记导出到 Notion 并同步教程&lt;/a&gt;，太好用啦！把豆瓣书影音同步到notion了，想到自己可能也会有不再使用豆瓣的一天。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>vol.04 有些懈怠的新年计划</title>
         <link>https://shengcaiye.github.io/p/vol.04-%E6%9C%89%E4%BA%9B%E6%87%88%E6%80%A0%E7%9A%84%E6%96%B0%E5%B9%B4%E8%AE%A1%E5%88%92/</link>
         <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
