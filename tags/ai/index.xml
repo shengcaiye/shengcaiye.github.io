@@ -31,7 +31,7 @@
 &lt;li&gt;有预测（predict）的能力&lt;/li&gt;
 &lt;li&gt;有规划（plan）的能力&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;AGI 若要能&lt;strong&gt;模拟互动对象&lt;/strong&gt;，训练资料源必须只是文字，就像婴儿在识字之前是通过大量的非文字观察（observation）来自主学习。
+&lt;p&gt;AGI 若要能&lt;strong&gt;模拟互动对象&lt;/strong&gt;，训练资料源必须不能只是文字，就像婴儿在识字之前是通过大量的非文字观察（observation）来自主学习。
 智慧（intelligence）有两个基本要素，分別是&lt;strong&gt;预测&lt;/strong&gt;与&lt;strong&gt;规划&lt;/strong&gt;。LLM 已经做到&lt;strong&gt;预测&lt;/strong&gt;，然而 目前还做不到 &lt;strong&gt;规划&lt;/strong&gt;，也就是对每一个行动可能产生的结果进行预测，并利用这些预测来&lt;strong&gt;规划&lt;/strong&gt;最远成目标的行为。&lt;/p&gt;
 &lt;p&gt;ChatGPT 既无法&lt;strong&gt;模拟互动对象&lt;/strong&gt;，也无法&lt;strong&gt;规划&lt;/strong&gt;，更不负责&lt;strong&gt;真伪&lt;/strong&gt;（因为知识基于概率的预测）。&lt;/p&gt;
 &lt;h3 id=&#34;该如何与-ai-相处&#34;&gt;该如何与 AI 相处&lt;/h3&gt;
